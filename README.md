@@ -159,20 +159,29 @@ If you want to submit your model to our [Leaderboard](https://videoodyssey-proje
 
 ## 📈 Experimental Results
 
-* Performance across different task types on VideoOdyssey-V
-* Performance across different task types on VideoOdyssey-AV
-* Performance across different video domains on VideoOdyssey-V
-* Performance across different video domains on VideoOdyssey-AV
-* Performance across different audio types
-* Impact of different input modalities
-* Impact of certificate window across different CCL levels: Gemini-2.5-pro and Qwen3-VL-235B on VideoOdyssey-V, Gemini-3-Flash and Qwen3.5-Omni-Plus on VideoOdyssey-AV
-* Impact of different inputs across three audio types under w/o CW and w/ CW settings
-* Human performance across different CCL levels
+* **Performance across different task types on VideoOdyssey-V**
+
+<p align="center">
+    <img src="./asset/main_result_v.png" width="100%" height="100%">
+</p>
+
+* **Performance across different task types on VideoOdyssey-AV**
+
+<p align="center">
+    <img src="./asset/main_result_av.png" width="100%" height="100%">
+</p>
+
+* **Performance across different continuous certificate lengths and audio types**
+
+<p align="center">
+    <img src="./asset/breakdown_results.png" width="100%" height="100%">
+</p>
+
 
 
 ## :black_nib: Citation
 
-If you find our work helpful, please consider citing our work.
+If you find our work helpful, please consider citing our work! ☺️
 
 ```bibtex
 @article{video_odyssey_2026,
