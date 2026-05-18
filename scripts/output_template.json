@@ -1,0 +1,114 @@
+[
+      {
+    "video_id": "jtoq3S48Pgk",
+    "video_path": "jtoq3S48Pgk.mp4",
+    "questions": [
+      {
+        "question_id": "jtoq3S48Pgk_0",
+        "question": "In this video, when a group of people gather to look at old photos in the cafe, how many people are sitting on the sofa in total?",
+        "options": [
+          "A. 5",
+          "B. 4",
+          "C. 6",
+          "D. 7"
+        ],
+        "answer": "A",
+        "question_type": [
+          "Counting"
+        ],
+        "time_reference": "00:02:35-00:03:35",
+        "predicted_answer": "C"
+      },
+      {
+        "question_id": "jtoq3S48Pgk_1",
+        "question": "When there is a blonde woman in blue clothes holding a baby on the hospital bed, how many people open the door and enter the room?",
+        "options": [
+          "A. 3",
+          "B. 5",
+          "C. 4",
+          "D. 6"
+        ],
+        "answer": "B",
+        "question_type": [
+          "Counting"
+        ],
+        "time_reference": "00:05:43-00:05:47",
+        "predicted_answer": "B"
+      },
+      {
+        "question_id": "jtoq3S48Pgk_3",
+        "question": "When a group of people throw a birthday party for a woman with golden-brown hair wearing a white top, how many cups are on the table?",
+        "options": [
+          "A. 12",
+          "B. 15",
+          "C. 14",
+          "D. 16"
+        ],
+        "answer": "B",
+        "question_type": [
+          "Counting"
+        ],
+        "time_reference": "00:35:10-00:35:11",
+        "predicted_answer": "A"
+      }
+    ],
+    "video_category": "TV",
+    "duration_minutes": 61.3
+  },
+  {
+    "video_id": "hFXXrxkYvXo",
+    "video_path": "hFXXrxkYvXo.mp4",
+    "questions": [
+      {
+        "question_id": "hFXXrxkYvXo_0",
+        "question": "At the very beginning of the video, how many plates is the bald man in the orange striped polo shirt holding?",
+        "options": [
+          "A. 6",
+          "B. 8",
+          "C. 7",
+          "D. 9"
+        ],
+        "answer": "B",
+        "question_type": [
+          "Counting"
+        ],
+        "time_reference": "00:00:05-00:00:48",
+        "predicted_answer": "C"
+      },
+      {
+        "question_id": "hFXXrxkYvXo_1",
+        "question": "How many different characters have appeared inside a pink-walled office in this video? They must appear inside the office, not at the door.",
+        "options": [
+          "A. 5",
+          "B. 3",
+          "C. 4",
+          "D. 6"
+        ],
+        "answer": "C",
+        "question_type": [
+          "Counting"
+        ],
+        "time_reference": "00:00:00-03:10:09",
+        "predicted_answer": "C"
+      },
+      {
+        "question_id": "hFXXrxkYvXo_2",
+        "question": "How many different scenes in total take place inside an office with pink walls in this video?",
+        "options": [
+          "A. 10",
+          "B. 12",
+          "C. 11",
+          "D. 9"
+        ],
+        "answer": "C",
+        "question_type": [
+          "Counting"
+        ],
+        "time_reference": "00:00:00-03:10:09",
+        "predicted_answer": "C"
+      }
+    ],
+    "video_category": "TV",
+    "duration_minutes": 190.15
+  }
+]
