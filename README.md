@@ -8,7 +8,7 @@
   <br>
   <img src="https://img.shields.io/badge/Dataset-VideoOdyssey-blue" alt="VideoOdyssey"> 
   <img src="https://img.shields.io/badge/Model-Gemini-green" alt="Gemini"> 
-  <img src="https://img.shields.io/badge/Model-GPT-green" alt="GPT"> 
+  <img src="https://img.shields.io/badge/Model-GPT--5.2-green" alt="GPT"> 
 </p>
 
 <div align="center">
