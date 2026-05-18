@@ -100,7 +100,7 @@ If you want to evaluate under the **w/ CW** setting, you need to cut the video a
 ### 📍 Example
 We provide [run_eval.py](https://github.com/maifoundations/VideoOdyssey/blob/main/scripts/run_eval.py) as an example.
 
-* If you want to test on **VideoOdyssey-V** under the default setting (using **only video** as the input, under **w/o CW** setting), you can run the following code:
+* If you want to test on **VideoOdyssey-V** under the default setting (using `only video` as the input, under `w/o CW` setting), you can run the following code:
 ```bash
 export OPENAI_API_KEY="your_api_key"
 export OPENAI_BASE_URL="your_base_url"
@@ -113,7 +113,7 @@ python run_eval.py \
     --model your-model-name \
     --input v
 ```
-* If you want to test on **VideoOdyssey-AV** under the default setting (using **video+audio** as the input, under **w/o CW** setting), you can run the following code:
+* If you want to test on **VideoOdyssey-AV** under the default setting (using `video + audio` as the input, under `w/o CW` setting), you can run the following code:
 ```bash
 export OPENAI_API_KEY="your_api_key"
 export OPENAI_BASE_URL="your_base_url"
@@ -126,7 +126,7 @@ python run_eval.py \
     --model your-model-name \
     --input av
 ```
-* If you want to test on **VideoOdyssey-AV** under the using **video+subtitles** as the input, under **w/ CW** setting, you can run the following code:
+* If you want to test on **VideoOdyssey-AV** under the using `video + subtitles` as the input, under `w/ CW` setting, you can run the following code:
 ```bash
 export OPENAI_API_KEY="your_api_key"
 export OPENAI_BASE_URL="your_base_url"
