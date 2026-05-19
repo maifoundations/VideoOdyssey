@@ -1,4 +1,6 @@
-<h1 align="center">VideoOdyssey: A Benchmark for Ultra-Long-Context and Omni-Modal Video Understanding</h1>
+<div align="center">
+<br>
+<h1>VideoOdyssey: A Benchmark for Ultra-Long-Context and Omni-Modal Video Understanding</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Task-VideoQA-red" alt="VideoQA"> 
