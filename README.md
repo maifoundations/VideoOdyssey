@@ -1,12 +1,10 @@
-<div align="center">
-<br>
-<h1>VideoOdyssey: A Benchmark for Ultra-Long-Context and Omni-Modal Video Understanding</h1>
+<h1 align="center">VideoOdyssey: A Benchmark for Ultra-Long-Context and Omni-Modal Video Understanding</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Task-VideoQA-red" alt="VideoQA"> 
   <img src="https://img.shields.io/badge/Task-AudioVideo--QA-red" alt="AudioVideo-QA"> 
   <img src="https://img.shields.io/badge/Task-Multi--Modal-red" alt="Multi-Modal"> 
-  <img src="https://img.shields.io/badge/Task-Ultra--Long-red" alt="Ultra-Long"> 
+  <img src="https://img.shields.io/badge/Task-Ultra--Long Context-red" alt="Ultra-Long"> 
   <br>
   <img src="https://img.shields.io/badge/Dataset-VideoOdyssey-blue" alt="VideoOdyssey"> 
   <img src="https://img.shields.io/badge/Model-Gemini-green" alt="Gemini"> 
