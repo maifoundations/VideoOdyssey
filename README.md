@@ -14,7 +14,7 @@
 <div align="center">
   <font size="4">
     [<a href="https://videoodyssey-project.github.io/">🏠 Project Page</a>] &nbsp;
-    [<a href="https://arxiv.org/abs/xxxx.xxxxx">📖 Arxiv Paper</a>] &nbsp;
+    [<a href="https://arxiv.org/abs/2605.22907">📖 Arxiv Paper</a>] &nbsp;
     [<a href="https://huggingface.co/datasets/maifoundations/VideoOdyssey">🤗 Dataset</a>] &nbsp;
     [<a href="https://videoodyssey-project.github.io/#leaderboard">🏆 Leaderboard</a>]
   </font>
