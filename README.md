@@ -184,9 +184,9 @@ If you want to submit your model to our [Leaderboard](https://videoodyssey-proje
 If you find our work helpful, please consider citing our work! ☺️
 
 ```bibtex
-@article{video_odyssey_2026,
+@article{he2026videoodyssey,
   title={VideoOdyssey: A Benchmark for Ultra-Long-Context and Omni-Modal Video Understanding},
-  author={Haichen He and Jiayi Zhou and Sifeng Shang and Yihan Hu and Yuanhan Zhang and Kaiyang Zhou},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  author={He, Haichen and Zhou, Jiayi and Shang, Sifeng and Hu, Yihan and Zhang, Yuanhan and Zhou, Kaiyang},
+  journal={arXiv preprint arXiv:2605.22907},
   year={2026}
 }
