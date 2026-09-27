@@ -28,6 +28,7 @@
 
 
 ## 🔥 News
+* **`2026-09-25`** 🥳 VideoOdyssey is accepted by NeurIPS 2026 ED Track!
 * **`2026-05-16`** 🌟 We released VideoOdyssey, a benchmark for ultra-long-context and omni-modal video understanding!
 
 
